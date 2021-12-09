@@ -6,7 +6,7 @@ const second = 1000,
   minute = second * 60,
   hour = minute * 60,
   day = hour * 24;
-let countDown = new Date('June 27, 2020 00:00:00').getTime(),
+let countDown = new Date('June 27, 2021 00:00:00').getTime(),
   x = setInterval(function () {
     let now = new Date().getTime(),
       distance = countDown - now;
@@ -161,7 +161,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["Terimakasih telah membaca."],
   startDelay: 2000,
   speed: 150,
   loop: false,
