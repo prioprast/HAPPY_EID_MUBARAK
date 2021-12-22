@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini Rabu, 22 Desember 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun</b>", " ", "Kepada Mutiara, semoga saya panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini Rabu, 22 Desember 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun</b>", " ", "Kepada Mutiara, semoga mutiara mendapatkan panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas ganteng :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Hallo Mutiara", "Happy Birthday ya..", " ", "Ciie udah 19 tahun, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang saya bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Hallo Mutiara", "Happy Birthday ya..", " ", "Ciie udah 19 tahun, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang mutiara bisa menjadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
