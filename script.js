@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini Sabtu, 15 Januari 2022 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun</b>", " ", "Kepada Yaya, semoga Yaya mendapatkan panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini Sabtu, 15 Januari 2022 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun ika</b>", " ", "Kepada Evi Yulika, semoga ika mendapatkan panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas ganteng :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Hallo Yaya", "Happy Birthday ya..", " ", "Ciie udah 15 tahun aja, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang Yaya bisa menjadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Hallo Ika!!!!", "Happy Birthday ya..", " ", "Ciie udah 15 tahun aja, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang Yaya bisa menjadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -162,7 +162,7 @@ new TypeIt("#teks2", {
 
 new TypeIt("#trims", {
   strings: ["Terimakasih telah membaca."],
-  startDelay: 5000,
+  startDelay: 2000,
   speed: 150,
   loop: false,
   waitUntilVisible: true,
