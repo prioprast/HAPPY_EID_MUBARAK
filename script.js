@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini selasa, 25 Januari 2022 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun buat Indira</b>", " ", "Kepada Indira, semoga kamu mendapatkan panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Prio Prastyo pada hari ini selasa, 25 Februari 2022 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun buat Mutiara</b>", " ", "Kepada Mutiara, semoga kamu mendapatkan panjang umur, sehat selalu, dan bahagia. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Prio Prastyo, Mas mu :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Hallo sayang!", "Happy Birthday ya..", " ", "Ciie udah 16 tahun aja, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang Yaya bisa menjadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Hallo cantik!?", "Happy Birthday ya..", " ", "Ciie udah 18 tahun aja wkwk!, semoga di umur yang sekarang Mutiara bisa menjadi pribadi yang lebih baik lagi, lebih rajin lagi, lebih sholehah, dan lebih berbakti kpd orang tua.", "Maaf yaa aku gak bisa kasih surprise yang humoris buat kamu. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka dengan apa yang aku lakukan buat kamu :)", "Sekali lagi, Selamat Ulang Tahun Mutiara!!!!!. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin....Aamiin ya rabbal aalamiin...."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -161,8 +161,8 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih sudah membaca sayang."],
-  startDelay: 3000,
+  strings: ["Terimakasih sudah membaca."],
+  startDelay: 5000,
   speed: 150,
   loop: false,
   waitUntilVisible: true,
